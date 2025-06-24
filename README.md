@@ -4,7 +4,7 @@ A backend service for a game that tracks players' scores in real-time and mainta
 # Features
 -  Real-time player score updates via WebSockets
 -  Fetch top N players on the leaderboard
--  Filter leaderboard by `region` and `game mode`
+-  Filter leaderboard by region and game mode
 -  Daily leaderboard score resets using cron jobs
 -  MongoDB Atlas for cloud-based NoSQL storage
 
