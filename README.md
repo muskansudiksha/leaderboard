@@ -13,5 +13,5 @@ A backend service for a game that tracks players' scores in real-time and mainta
 - **Realtime**: Socket.io
 - **Database**: MongoDB (via Mongoose)
 - **Scheduler**: node-cron
-- **Deployment**: Render 
+- **Deployment**: Render (https://leaderboard-dstp.onrender.com)
 
